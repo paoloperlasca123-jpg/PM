@@ -1,0 +1,27 @@
+# Archivos de video/audio pesados: no se suben al repo
+media/input/*
+media/assets/music/*
+media/assets/images/*
+media/assets/broll/*
+media/output/processed/*
+media/output/final/tiktok/*
+media/output/final/reels/*
+media/output/final/shorts/*
+
+!media/input/.gitkeep
+!media/assets/music/.gitkeep
+!media/assets/images/.gitkeep
+!media/assets/broll/.gitkeep
+!media/output/processed/.gitkeep
+!media/output/final/tiktok/.gitkeep
+!media/output/final/reels/.gitkeep
+!media/output/final/shorts/.gitkeep
+
+# Entornos y configuración local
+.env
+venv/
+__pycache__/
+*.pyc
+
+# Modelos descargados (Whisper, etc.)
+models/
