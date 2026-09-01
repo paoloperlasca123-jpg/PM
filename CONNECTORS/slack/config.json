@@ -1,0 +1,10 @@
+{
+  "enabled": false,
+  "estado": "no_configurado",
+  "api_oficial": "Slack API, token de app/bot",
+  "credenciales": "definir en variables de entorno, nunca en este archivo",
+  "automatizaciones_disponibles": [
+    "notificar cuando un proyecto pasa a 'revision' o 'finalizado'",
+    "alertar sobre errores registrados en el log de automatizaciones"
+  ]
+}

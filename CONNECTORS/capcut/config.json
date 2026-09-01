@@ -1,0 +1,10 @@
+{
+  "enabled": false,
+  "estado": "sin_api_oficial",
+  "api_oficial": null,
+  "automatizaciones_disponibles": [
+    "preparar carpeta 04_EDICION con RAW, broll y recursos organizados antes de abrir CapCut",
+    "generar subtitulos .srt para importar manualmente en CapCut",
+    "mover el export final del proyecto a 05_FINAL una vez exportado manualmente"
+  ]
+}

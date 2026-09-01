@@ -1,0 +1,11 @@
+{
+  "enabled": false,
+  "estado": "no_configurado",
+  "api_oficial": "YouTube Data API v3, OAuth2",
+  "scope_recomendado": "https://www.googleapis.com/auth/youtube.upload",
+  "credenciales": "definir en variables de entorno o Keychain, nunca en este archivo",
+  "automatizaciones_disponibles": [
+    "subir un Short ya finalizado con titulo/descripcion desde el manifest",
+    "traer metricas basicas de un video publicado"
+  ]
+}

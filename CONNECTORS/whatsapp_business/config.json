@@ -1,0 +1,10 @@
+{
+  "enabled": false,
+  "estado": "no_configurado",
+  "api_oficial": "WhatsApp Business Cloud API (Meta), requiere cuenta business verificada",
+  "credenciales": "definir en variables de entorno, nunca en este archivo",
+  "automatizaciones_disponibles": [
+    "recibir briefs o feedback de clientes por WhatsApp",
+    "notificar entrega de contenido finalizado"
+  ]
+}
