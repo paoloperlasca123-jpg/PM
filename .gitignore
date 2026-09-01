@@ -25,3 +25,12 @@ __pycache__/
 
 # Modelos descargados (Whisper, etc.)
 models/
+
+# Remotion (proyecto Node/React para render de subtítulos animados)
+remotion/node_modules/
+remotion/whisper.cpp/
+remotion/temp/
+remotion/out/
+remotion/public/*.mp4
+remotion/public/*.json
+!remotion/public/sample-video.mp4
