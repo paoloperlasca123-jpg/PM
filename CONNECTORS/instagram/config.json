@@ -1,0 +1,10 @@
+{
+  "enabled": false,
+  "estado": "no_configurado",
+  "api_oficial": "Instagram Graph API (Meta), requiere cuenta business/creator",
+  "credenciales": "definir en variables de entorno, nunca en este archivo",
+  "automatizaciones_disponibles": [
+    "programar publicacion de un video finalizado",
+    "traer metricas basicas de un post publicado"
+  ]
+}

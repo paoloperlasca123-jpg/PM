@@ -1,0 +1,10 @@
+{
+  "enabled": false,
+  "estado": "no_configurado",
+  "api_oficial": "Dropbox API, OAuth2",
+  "credenciales": "definir en variables de entorno, nunca en este archivo",
+  "automatizaciones_disponibles": [
+    "backup espejo de proyectos finalizados",
+    "compartir carpeta de un cliente con acceso externo"
+  ]
+}

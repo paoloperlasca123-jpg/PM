@@ -1,0 +1,10 @@
+{
+  "enabled": false,
+  "estado": "no_configurado",
+  "api_oficial": "Notion API, token de integración interna",
+  "credenciales": "definir en variables de entorno, nunca en este archivo",
+  "automatizaciones_disponibles": [
+    "espejo de manifest.json de proyectos en una base de datos de Notion",
+    "sincronizar etapa_actual como estado visible para el equipo"
+  ]
+}

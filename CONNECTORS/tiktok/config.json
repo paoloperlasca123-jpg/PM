@@ -1,0 +1,10 @@
+{
+  "enabled": false,
+  "estado": "no_configurado",
+  "api_oficial": "TikTok API for Developers, acceso limitado y sujeto a revision de app",
+  "credenciales": "definir en variables de entorno, nunca en este archivo",
+  "automatizaciones_disponibles": [
+    "subida directa de video (Content Posting API, requiere aprobacion de TikTok)",
+    "traer metricas basicas si el acceso es aprobado"
+  ]
+}

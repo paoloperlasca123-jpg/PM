@@ -1,0 +1,12 @@
+{
+  "enabled": false,
+  "estado": "no_configurado",
+  "api_oficial": "Gmail API (Google), OAuth2",
+  "scope_recomendado": "https://www.googleapis.com/auth/gmail.readonly",
+  "credenciales": "definir en variables de entorno o Keychain, nunca en este archivo",
+  "automatizaciones_disponibles": [
+    "detectar correos de clientes conocidos por remitente/dominio",
+    "guardar adjuntos relacionados con un proyecto en 00_INBOX",
+    "crear una entrada de tarea a partir del asunto (ej: 'Brief:', 'Feedback:')"
+  ]
+}

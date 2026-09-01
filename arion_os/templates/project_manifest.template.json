@@ -1,0 +1,28 @@
+{
+  "tipo": "proyecto_video",
+  "id": "",
+  "titulo": "",
+  "cliente": "",
+  "plataformas_destino": [],
+  "etapa_actual": "idea",
+  "etapas_disponibles": [
+    "idea",
+    "investigacion",
+    "guion",
+    "preproduccion",
+    "grabacion",
+    "material_bruto",
+    "edicion",
+    "revision",
+    "finalizado",
+    "programado",
+    "publicado",
+    "metricas",
+    "archivo"
+  ],
+  "fecha_grabacion": null,
+  "fecha_publicacion": null,
+  "metricas": {},
+  "creado": "",
+  "notas": ""
+}

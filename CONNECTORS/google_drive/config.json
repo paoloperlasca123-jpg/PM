@@ -1,0 +1,11 @@
+{
+  "enabled": false,
+  "estado": "no_configurado",
+  "api_oficial": "Google Drive API, OAuth2",
+  "scope_recomendado": "https://www.googleapis.com/auth/drive.readonly",
+  "credenciales": "definir en variables de entorno o Keychain, nunca en este archivo",
+  "automatizaciones_disponibles": [
+    "sincronizar backup de carpetas finalizadas",
+    "compartir carpeta de un cliente con acceso de solo lectura"
+  ]
+}

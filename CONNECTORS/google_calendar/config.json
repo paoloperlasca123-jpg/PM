@@ -1,0 +1,11 @@
+{
+  "enabled": false,
+  "estado": "no_configurado",
+  "api_oficial": "Google Calendar API, OAuth2",
+  "scope_recomendado": "https://www.googleapis.com/auth/calendar.readonly",
+  "credenciales": "definir en variables de entorno o Keychain, nunca en este archivo",
+  "automatizaciones_disponibles": [
+    "crear evento de 'grabacion' al programar un proyecto",
+    "recordatorio de fecha de publicacion programada"
+  ]
+}
